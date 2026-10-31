@@ -1,6 +1,6 @@
 # Heat Check — Privacy Policy
 
-**Last updated: October 29, 2026**
+**Last updated: October 31, 2026**
 
 Heat Check is a food and training tracker made by OwlNest Studios ("we", "us"). This policy explains what the app stores, where it goes, and how to delete it. Heat Check has no ads, no analytics and no tracking, and we never sell or share your data for marketing.
 
@@ -48,7 +48,7 @@ All connections to Anthropic and Unity use encrypted HTTPS.
 
 ## Your phone's own backups
 
-Depending on your phone's settings, your phone's system backup (such as Android backup to your Google account) may include Heat Check's data file. The Claude API key is always excluded. You control this in your phone's settings.
+Heat Check turns off Android’s automatic backup and device-to-device transfer, so your phone’s system backup (such as Android backup to your Google account) does not include Heat Check’s data file or your Claude API key. The only backup is the Unity cloud backup described above, which you control; after a reinstall or on a new phone, sign in to restore it.
 
 ## How long data is kept
 
