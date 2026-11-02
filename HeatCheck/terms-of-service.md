@@ -1,12 +1,12 @@
 # Heat Check — Terms of Service
 
-**Last updated: October 29, 2026**
+**Last updated: November 2, 2026**
 
 These terms cover your use of Heat Check, a food and training tracker made by OwlNest Studios ("we", "us"). By using Heat Check you agree to them. If you don't agree, please don't use the app.
 
 ## 1. What Heat Check is
 
-Heat Check helps you log meals and workouts and see how you're doing against your own targets. Meal calories and macros can be estimated by Claude, an AI model from Anthropic, using an API key you provide. Your logs can be backed up to your Unity Player Account.
+Heat Check helps you log meals and workouts and see how you're doing against your own targets. Meal calories and macros can be estimated by Claude, an AI model from Anthropic, through our server. Your logs can be backed up to your Unity Player Account.
 
 ## 2. Not medical or nutrition advice
 
@@ -16,17 +16,18 @@ Heat Check is a logging and awareness tool. **It isn't medical, nutritional or f
 - Default targets, training suggestions, muscle "heat" and reminders are general information, not a plan made for you.
 - Talk to a doctor, registered dietitian or other qualified professional before changing your diet or training, especially if you have a health condition, are pregnant, or have a history of disordered eating.
 
-## 3. Your Claude API key and its costs
+## 3. Smart estimates and plans
 
-- To use Claude estimates you provide your own Anthropic API key. You're responsible for that key, for your Anthropic account, and for **all charges** Anthropic bills to it. Your use of Claude is also covered by [Anthropic's terms](https://www.anthropic.com/legal) that apply to your account.
-- The spend Heat Check shows ("tokens", "$") is an **estimate** calculated on your phone from published prices. Your Anthropic bill is what counts.
-- Estimating is always optional. You can enter numbers yourself for free.
+- Smart estimates are provided through our server, which uses Anthropic's Claude. You don't need an Anthropic account or key, and you are never charged by Anthropic for them.
+- Each plan has a monthly limit on smart estimates. Heat Check shows your limit and what you have left. When you reach it, smart estimates stop until the month resets or you change plan; everything else, including entering numbers yourself, re-logging and the built-in guide, keeps working and is always free.
+- The **Beta** plan is free while the beta runs and may change, end or be limited to some people at any time. We may also pause smart estimates for everyone at any time (for example to control our costs).
+- Smart estimates need you to be signed in. Estimating is always optional.
 
 ## 4. Your account and backup
 
 - Cloud backup uses Unity Gaming Services and requires a Unity Player Account, covered by [Unity's terms](https://unity.com/legal) and the [Unity Privacy Policy](https://unity.com/legal/privacy-policy). You're responsible for access to that account.
 - Backups are provided as-is. We do our best to keep your logs safe, but we can't guarantee that a backup will always be available, complete or restorable.
-- Anonymous use (without signing in) isn't backed up and can't be recovered after the app is uninstalled.
+- Anonymous use (without signing in) isn't backed up and can't be recovered after the app is uninstalled, and it has no smart estimates.
 
 ## 5. Your data
 
@@ -46,7 +47,7 @@ Heat Check is provided **"as is" and "as available"**, without warranties of any
 
 ## 9. Limitation of liability
 
-To the fullest extent the law allows, OwlNest Studios isn't liable for any indirect, incidental, special or consequential damages, or for any loss of data, health outcomes or charges from third-party services (including Anthropic API charges), arising from your use of Heat Check. Nothing in these terms limits liability that can't be limited under applicable law.
+To the fullest extent the law allows, OwlNest Studios isn't liable for any indirect, incidental, special or consequential damages, or for any loss of data, health outcomes or charges from third-party services, arising from your use of Heat Check. Nothing in these terms limits liability that can't be limited under applicable law.
 
 ## 10. Changes to these terms
 
