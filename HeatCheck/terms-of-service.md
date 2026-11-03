@@ -6,32 +6,33 @@ These terms cover your use of Heat Check, a food and training tracker made by Ow
 
 ## 1. What Heat Check is
 
-Heat Check helps you log meals and workouts and see how you're doing against your own targets. Meal calories and macros can be estimated by Claude, an AI model from Anthropic, through our server. Your logs can be backed up to your Unity Player Account.
+Heat Check helps you log meals and workouts and see how you're doing against your own targets. Meal calories and macros, and the muscles a custom exercise works, can be estimated by an AI model from Anthropic, through our server. Your logs can be backed up to your Unity Player Account.
 
 ## 2. Not medical or nutrition advice
 
 Heat Check is a logging and awareness tool. **It isn't medical, nutritional or fitness advice.**
 
-- Calorie and macro estimates are approximate. AI estimates in particular can be wrong, especially for vague descriptions or restaurant meals. Check numbers that matter to you, and correct them with **Edit numbers** when you know better.
+- Calorie and macro estimates are approximate. AI estimates in particular can be wrong, especially for vague descriptions or restaurant meals. Check numbers that matter to you, and correct them with **Edit numbers** when you know better. You can tell us about a wrong estimate with **Report a problem**.
 - Default targets, training suggestions, muscle "heat" and reminders are general information, not a plan made for you.
 - Talk to a doctor, registered dietitian or other qualified professional before changing your diet or training, especially if you have a health condition, are pregnant, or have a history of disordered eating.
 
-## 3. Smart estimates and plans
+## 3. Who can use it, AI estimates and plans
 
-- Smart estimates are provided through our server, which uses Anthropic's Claude. You don't need an Anthropic account or key, and you are never charged by Anthropic for them.
-- Each plan has a monthly limit on smart estimates. Heat Check shows your limit and what you have left. When you reach it, smart estimates stop until the month resets or you change plan; everything else, including entering numbers yourself, re-logging and the built-in guide, keeps working and is always free.
-- The **Beta** plan is free while the beta runs and may change, end or be limited to some people at any time. We may also pause smart estimates for everyone at any time (for example to control our costs).
-- Smart estimates need you to be signed in. Estimating is always optional.
+- **You must be 18 or older.** By using Heat Check you confirm you are 18 or older.
+- AI estimates are provided through our server, which uses an AI model from Anthropic. You don't need an Anthropic account or key, and you are never charged by Anthropic for them.
+- Each plan has a monthly limit on AI estimates. Heat Check shows your limit and what you have left. When you reach it, AI estimates stop until the month resets or you change plan; everything else, including entering numbers yourself, re-logging and the built-in guide, keeps working and is always free.
+- **Beta access** is free, is offered to invited testers, and may change, end or be limited to some people at any time. We may also pause AI estimates for everyone at any time (for example to control our costs).
+- AI estimates need you to be signed in. Estimating is always optional.
 
 ## 4. Your account and backup
 
 - Cloud backup uses Unity Gaming Services and requires a Unity Player Account, covered by [Unity's terms](https://unity.com/legal) and the [Unity Privacy Policy](https://unity.com/legal/privacy-policy). You're responsible for access to that account.
 - Backups are provided as-is. We do our best to keep your logs safe, but we can't guarantee that a backup will always be available, complete or restorable.
-- Anonymous use (without signing in) isn't backed up and can't be recovered after the app is uninstalled, and it has no smart estimates.
+- Anonymous use (without signing in) isn't backed up and can't be recovered after the app is uninstalled, and it has no AI estimates.
 
 ## 5. Your data
 
-Your logs belong to you. How Heat Check stores and shares data, and how to delete it, is explained in the [Privacy Policy](privacy-policy.md).
+Your logs belong to you. How Heat Check stores and shares data, what a problem report holds, and how to delete your data or your whole account, is explained in the [Privacy Policy](privacy-policy.md).
 
 ## 6. Acceptable use
 
@@ -55,7 +56,7 @@ We may update these terms. The "Last updated" date above shows when they last ch
 
 ## 11. Governing law
 
-These terms are governed by the laws of Colorado, USA
+These terms are governed by the laws of Colorado, USA.
 
 ## 12. Contact
 
